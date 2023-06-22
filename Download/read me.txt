@@ -1,0 +1,2 @@
+Download both files
+Config.py and Thorium.py
