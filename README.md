@@ -14,6 +14,9 @@ pip install colorama<br>
 pip install rich<br>
 pip install asyncio<br><br>
 
+Fix step: Install pip<br>
+well just goto google.com search
+
 # License
 MIT License
 
